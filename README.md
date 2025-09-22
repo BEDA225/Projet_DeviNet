@@ -34,7 +34,7 @@ Projet PHP de jeu de devinette avec gestion d'utilisateurs.
 Eric BEDA
 - Email : a.anazet1@gmail.com
 - GitHub : [github.com/beda225](https://github.com/beda225)
-- LinkedIn : [linkedin.com/in/anazet-beda](https://www.linkedin.com/in/anazet-beda)
+- LinkedIn : [linkedin.com/in/anazet-beda](www.linkedin.com/in/beda225)
 
 ## Licence
 Projet libre d'utilisation à des fins pédagogiques.
